@@ -1,0 +1,6 @@
+streamlit
+sounddevice
+scipy
+SpeechRecognition
+pyaudio
+numpy
