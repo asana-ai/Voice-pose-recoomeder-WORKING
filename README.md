@@ -26,3 +26,5 @@ A voice-activated yoga pose recommendation system.
 - Make sure your microphone is working
 - Speak clearly for 5 seconds when recording
 - The app suggests poses that avoid straining your painful area
+
+# Put this in the main app
