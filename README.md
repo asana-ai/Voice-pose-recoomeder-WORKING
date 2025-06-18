@@ -1,3 +1,5 @@
+# Put this in the main app
+
 # Yoga Pose Suggester
 
 A voice-activated yoga pose recommendation system.
@@ -27,4 +29,4 @@ A voice-activated yoga pose recommendation system.
 - Speak clearly for 5 seconds when recording
 - The app suggests poses that avoid straining your painful area
 
-# Put this in the main app
+
